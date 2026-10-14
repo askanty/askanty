@@ -105,6 +105,6 @@ A multiplayer browser game featuring private rooms, different player roles, and 
   <i>"Building. Learning. Improving."</i>
 </p>
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090B,100:111111&height=120&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B16,20:101A35,40:1D2860,65:3B3285,85:5B3DB5,100:8B5CF6&height=140&section=footer" width="100%" />
 </p>
