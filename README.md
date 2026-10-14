@@ -106,5 +106,5 @@ A multiplayer browser game featuring private rooms, different player roles, and 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B16,20:101A35,40:1D2860,65:3B3285,85:5B3DB5,100:8B5CF6&height=140&section=footer" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:090B16,20:101A35,40:1D2860,65:3B3285,85:5B3DB5,100:8B5CF6&height=140&section=footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gray&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)" width="100%" />
 </p>
