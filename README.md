@@ -1,8 +1,14 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</div>
+
+
 <h1 align="center">Askanty </h1>
 
 ###
 
 <div align="center">
+
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
