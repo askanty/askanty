@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=1008313804055375528" height="295" width="345"/>
+  <img src="https://v1.pinimg.com/videos/mc/expMp4/41/2a/aa/412aaa5634dbb4d37a80f4c1aff49d30_t3.mp4" height="295" width="345"/>
   <h1 align="center" position="absolute">Askanty </h1>
 </div>
 
