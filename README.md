@@ -7,7 +7,7 @@
 
 
 ###
-###👾 Hey, I'm a Developer!
+### 👾 Hey, I'm a Developer!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+Fullstack+Developer;Building+projects+and+learning+every+day" alt="Typing SVG" />
