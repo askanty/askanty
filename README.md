@@ -5,6 +5,37 @@
 
 
 
+
+
+###
+
+# 👾 Hey, I'm a Developer!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+Fullstack+Developer;Building+projects+and+learning+every+day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💜 Student Developer · 💻 Python · 🚀 Aspiring Fullstack Developer
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+Hi! I'm a student developer passionate about programming, web development, and automation.
+
+I enjoy exploring how technologies work, turning ideas into real projects, and continuously improving my skills.
+
+- 🎓 IT student focused on software development
+- 🐍 Working with Python
+- 🌐 Interested in Fullstack Development
+- 🤖 Building my own voice assistant — JARVIS
+- 🎮 Developing a multiplayer browser game — Mafia Game
+- ⚡ Always learning and experimenting with new technologies
+
+## ⚙️ Tech Stack
+
 ###
 
 <div align="center">
@@ -51,49 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"/>
   
 </div>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=askanty&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-###
-
-
-
-###
-
-# 👾 Hey, I'm a Developer!
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+Fullstack+Developer;Building+projects+and+learning+every+day" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  💜 Student Developer · 💻 Python · 🚀 Aspiring Fullstack Developer
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-Hi! I'm a student developer passionate about programming, web development, and automation.
-
-I enjoy exploring how technologies work, turning ideas into real projects, and continuously improving my skills.
-
-- 🎓 IT student focused on software development
-- 🐍 Working with Python
-- 🌐 Interested in Fullstack Development
-- 🤖 Building my own voice assistant — JARVIS
-- 🎮 Developing a multiplayer browser game — Mafia Game
-- ⚡ Always learning and experimenting with new technologies
-
-## ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,fastapi,git,github,vscode&theme=dark" />
-</p>
 
 ## 🚀 Featured Projects
 
