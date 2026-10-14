@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.gif" height="295" width="100%"/>
-  <h1 align="center" position="absolute">Askanty </h1>
 </div>
+<h1 align="center" style="position: absolute"">Askanty </h1>
 
 
 
