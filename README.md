@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/aa/bb/6b/aabb6b3321d708bc97c2620e45a92a87.jpg" width="100%" alt="Banner">
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1008313804055375528" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
   <h1 align="center" position="absolute">Askanty </h1>
 </div>
