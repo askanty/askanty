@@ -64,10 +64,59 @@
 
 ###
 
+# 👾 Hey, I'm a Developer!
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+Fullstack+Developer;Building+projects+and+learning+every+day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💜 Student Developer · 💻 Python · 🚀 Aspiring Fullstack Developer
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+Hi! I'm a student developer passionate about programming, web development, and automation.
+
+I enjoy exploring how technologies work, turning ideas into real projects, and continuously improving my skills.
+
+- 🎓 IT student focused on software development
+- 🐍 Working with Python
+- 🌐 Interested in Fullstack Development
+- 🤖 Building my own voice assistant — JARVIS
+- 🎮 Developing a multiplayer browser game — Mafia Game
+- ⚡ Always learning and experimenting with new technologies
+
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,fastapi,git,github,vscode&theme=dark" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🤖 JARVIS Assistant
+A personal voice assistant built with Python, featuring speech recognition, text-to-speech, and voice-controlled commands.
+
+### 🎮 Mafia Game
+A multiplayer browser game featuring private rooms, different player roles, and real-time communication.
+
+## 🎯 Goals
+
+- 🚀 Become a professional Fullstack Developer
+- 🌐 Build complete and useful web applications
+- 🧠 Improve my Python and JavaScript skills
+- 💼 Gain experience working on real-world projects
+- 📚 Keep learning, building, and improving
+
+---
+
+<p align="center">
+  <i>"Building. Learning. Improving."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=100&section=footer" width="100%" />
 </p>
