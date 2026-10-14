@@ -31,7 +31,6 @@ I enjoy exploring how technologies work, turning ideas into real projects, and c
 - IT student focused on software development
 - Working with Python and exploring web technologies
 - Interested in Fullstack Development
-- Building a personal voice assistant — JARVIS
 - Developing a multiplayer browser game — Mafia Game
 - Always learning and experimenting with new technologies
 
