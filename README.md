@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="banner.gif" width="100%" height="300" alt="Profile Banner"/>
 </div>
 
@@ -39,21 +39,21 @@ I enjoy exploring how technologies work, turning ideas into real projects, and c
 
 <div align="center">
 
-  <h3>Languages & Web</h3>
+<h3>Languages & Web</h3>
 
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,php&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,php&theme=dark" alt="Programming Languages"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <h3>Frameworks & Tools</h3>
+<h3>Frameworks & Tools</h3>
 
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,docker,git,github,mysql,linux&theme=dark" alt="Frameworks and Tools"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,docker,git,github,mysql,linux&theme=dark" alt="Frameworks and Tools"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <h3>Development Environment</h3>
+<h3>Development Environment</h3>
 
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,obsidian&theme=dark" alt="Development Environment"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,obsidian&theme=dark" alt="Development Environment"/>
 
 </div>
 
