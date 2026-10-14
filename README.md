@@ -99,7 +99,7 @@ A multiplayer browser game featuring private rooms, different player roles, and 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-LEARNING-IMPROVING-0B0D12?style=for-the-badge&labelColor=0B0D12&color=303846" alt="Building Learning Improving"/>
+  <img src="https://img.shields.io/badge/BUILDING%20%7C%20LEARNING%20%7C%20IMPROVING-0B0D12?style=for-the-badge&labelColor=0B0D12&color=303846" alt="Building Learning Improving"/>
 </p>
 
 <p align="center">
